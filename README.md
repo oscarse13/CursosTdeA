@@ -7,3 +7,8 @@
 5 Instalar table-builder
 6 Instalar hbs
 7 Pararse en la carpeta src y ejecutar la aplicación "node app"
+
+
+Si tienen algún problema con la ejecución por favor escribir a oscarse@gmail.com y con mucho gusto les resolvere el inconveniente.
+
+Gracias
